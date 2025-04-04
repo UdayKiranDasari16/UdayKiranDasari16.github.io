@@ -14,6 +14,10 @@
   <a href="https://github.com/uk1601">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://drive.google.com/file/d/12vzlO_tJFxcmQ1qlfBBVDcRAkXHZeoxl/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+</a>
+
 </div>
 
 ## 🧠 About Me
